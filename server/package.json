@@ -1,0 +1,31 @@
+{
+  "name": "myuserscript_server",
+  "version": "0.0.1",
+  "description": "myuserscript_server",
+
+  "author": {
+    "name": "SYSLAB: scientihark",
+    "email": "mgbbs.mobile@gmail.com",
+    "url": "http://www.syslab.us/"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scientihark/myuserscript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scientihark/myuserscript/issues",
+    "email": "mgbbs.mobile@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "bufferhelper": "0.2.0",
+    "cookies": "0.3.6"
+,
+    "mime": "1.2.11",
+    "nodegrass": "0.0.1"  },
+  "licence": "MIT",
+  "readme": "myuserscript",
+  "readmeFilename": "README.md"}
